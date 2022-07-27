@@ -20,7 +20,7 @@ solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS).
 
 ## How to use this package?
 ```
-pip install topsis-NamanJain-101803065
+pip install Topsis-Paras-101917118
 ```
 
 ### In Command Prompt
